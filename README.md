@@ -1,1 +1,3 @@
 # Eazyrecruit
+## Features
+* Project Setup
