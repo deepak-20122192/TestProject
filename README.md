@@ -1,1 +1,1 @@
-# This is an <Eazyrecruit> tag
+# Eazyrecruit
