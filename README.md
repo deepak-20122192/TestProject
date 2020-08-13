@@ -29,14 +29,14 @@
 	* Email Preview
 		> Preview and configure the email template that is sent to the applicant.
 - **Public Job Portal**
-	* Branding**
+	* Branding
 		>Company details such logo,name , website can easily be customised
 	
-	* Publish Job Listing**
+	* Publish Job Listing
 		>Text here
 	
-	* Job Apply**
+	* Job Apply
 		>Text Here
 	
-	* Social Sharing**
+	* Social Sharing
 		>Share jobs on various social platforms such as **Linkedin**, **Twitter**, **Facebook**.
