@@ -53,13 +53,13 @@ It is advanced and full featured application for resume parsing, job listing, jo
 		> Preview and configure the email template that is sent to the applicant.
 - **Public Job Portal**
 	* Branding
-		>Company details such logo,name , website can easily be customised.
+		>Company details such as company logo, name, website can easily be customised.
 	
 	* Publish Job Listing
 		>All the publish job will be listed here.
 	
 	* Job Apply
-		>Candidate can apply job into a specific job.
+		>Candidate can apply job for a specific job.
 	
 	* Social Sharing
 		>Share jobs on various social platforms such as **Linkedin**, **Twitter**, **Facebook**.
