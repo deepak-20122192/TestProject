@@ -29,8 +29,8 @@ It is advanced and full featured application for resume parsing, job listing, jo
 	* Create different jobs
 	* Add applicant into a specific job
 	* Track different job status
- - **Applicant**
-	
+ - **Applicant** 
+ Applicant are
 	* Create Applicant
 	* Upload Resume
 		> Resume contains data such as applicant info such as name, email, experience, mobile number,skills, all related information regarding applicant  is parsed by the **ML Text Recognition System**, and  related info is saved on our platform.
