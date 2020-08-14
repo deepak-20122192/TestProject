@@ -1,7 +1,24 @@
 # Eazyrecruit
 ## Project Setup
+ - **Pre-requisite**
+ 		 * System Requirements : Ubuntu 18 (4 Core or Greater, 8 GB RAM or Greater)
+                 * Install Docker (https://docs.docker.com/engine/install/ubuntu/) 
+		 * Install Docker-Compose (https://docs.docker.com/compose/install/)
+ - **Install Setup**
+		 * After clone the project run below command
+		 					> sh deploy.sh
+		 * After succesfull setup, All the details such as web url, Admin Username and Admin Password will displayed on the screen					
+      
 ## Language Used
+* Python
+* HTML
+* JS, TS
 ## Framework Used
+* Angular
+* Expressjs
+## Database
+* Mongo
+* Redis
 ## Features
  - **Jobs**
 	* Create different jobs
@@ -22,22 +39,22 @@
 	>Text here
  - **Email Settings**
 	* Inbound Settings
-		>Configure  IMap
+		> Configure Imap to fetch  resume from specific email-id
 	
 	* Outbound Settings
-		> Type your text
+		> Configure smtp to send email
 	
-	* Email Preview
+	* Email template Preview
 		> Preview and configure the email template that is sent to the applicant.
 - **Public Job Portal**
 	* Branding
 		>Company details such logo,name , website can easily be customised
 	
 	* Publish Job Listing
-		>Text here
+		>All the publish job will be listed here
 	
 	* Job Apply
-		>Text Here
+		>Candidate can apply job into a specific job
 	
 	* Social Sharing
 		>Share jobs on various social platforms such as **Linkedin**, **Twitter**, **Facebook**.
