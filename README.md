@@ -1,13 +1,14 @@
 # Eazyrecruit
 ## Project Setup
  - **Pre-requisite**
- 		 * System Requirements : Ubuntu 18 (4 Core or Greater, 8 GB RAM or Greater)
-                 * Install Docker (https://docs.docker.com/engine/install/ubuntu/) 
-		 * Install Docker-Compose (https://docs.docker.com/compose/install/)
+ 	* System Requirements : Ubuntu 18 (4 Core or Greater, 8 GB RAM or Greater)
+	* Install Docker (https://docs.docker.com/engine/install/ubuntu/) 
+	* Install Docker-Compose (https://docs.docker.com/compose/install/)
+	
  - **Install Setup**
-		 * After clone the project run below command
-		 					> sh deploy.sh
-		 * After succesfull setup, All the details such as web url, Admin Username and Admin Password will displayed on the screen					
+ 	* After clone the project run below command
+		> sh deploy.sh
+	* After succesfull setup, All the details such as web url, Admin Username and Admin Password will displayed on the screen					
       
 ## Language Used
 * Python
