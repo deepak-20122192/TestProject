@@ -39,27 +39,27 @@ It is advanced and full featured application for resume parsing, job listing, jo
  - **Interview Schedule**
 	 >Schedule/Reschedule an applicant interview to a specific interviewer.
  - **Interviews**
-	>Track all Pending and Completed interviews,
+	>Track all Pending and Completed interviews.
 - **Analytics**
-	>
+	>Show number of resume received on the platform.
  - **Email Settings**
 	* Inbound Settings
-		> Configure Imap to fetch  resume from specific email-id
+		> Configure Imap to fetch resume from specific email-id.
 	
 	* Outbound Settings
-		> Configure smtp to send email
+		> Configure smtp to send emails.
 	
 	* Email template Preview
 		> Preview and configure the email template that is sent to the applicant.
 - **Public Job Portal**
 	* Branding
-		>Company details such logo,name , website can easily be customised
+		>Company details such logo,name , website can easily be customised.
 	
 	* Publish Job Listing
-		>All the publish job will be listed here
+		>All the publish job will be listed here.
 	
 	* Job Apply
-		>Candidate can apply job into a specific job
+		>Candidate can apply job into a specific job.
 	
 	* Social Sharing
 		>Share jobs on various social platforms such as **Linkedin**, **Twitter**, **Facebook**.
