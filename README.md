@@ -10,7 +10,7 @@
 	
 	* Create Applicant
 	* Upload Resume
-		> Resume contains data such applicant info such as name, email, experience, mobile number,skills, all related information regarding applicant  is parsed by the **ML Text Recognition System**, and  related info is saved on our platform.
+		> Resume contains data such as applicant info such as name, email, experience, mobile number,skills, all related information regarding applicant  is parsed by the **ML Text Recognition System**, and  related info is saved on our platform.
  - **Mail Parser**
 	> We designed a automated system that parse every resume that is sent to company email id, and the ML algorithms gather information about applicant.
  - **Interview Schedule**
