@@ -1,4 +1,4 @@
-# Eazyrecruit1
+# Eazyrecruit
 ## Project Setup
 ## Language Used
 ## Framework Used
