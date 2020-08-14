@@ -1,7 +1,7 @@
 # Eazyrecruit
 Eazyrecruit is a solution that committed towards the advancement of HR Talent Acquisition solutions. It's objective is to make the hiring process easy for employers and help them in acquiring the right talent from the market.
-An AI enabled open source recruitment software to ease screening and hiring process.
-Advanced and full featured application for resume parsing, job listing, job sharing, applicant tracking, interview scheduling, interview ratings
+It is an AI enabled open source recruitment software to ease screening and hiring process.
+It is advanced and full featured application for resume parsing, job listing, job sharing, applicant tracking, interview scheduling, interview ratings.
 
 ## Project Setup
  - **Pre-requisite**
