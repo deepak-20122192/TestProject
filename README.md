@@ -1,5 +1,8 @@
 # Eazyrecruit
 Eazyrecruit is a solution that committed towards the advancement of HR Talent Acquisition solutions. It's objective is to make the hiring process easy for employers and help them in acquiring the right talent from the market.
+An AI enabled open source recruitment software to ease screening and hiring process.
+Advanced and full featured application for resume parsing, job listing, job sharing, applicant tracking, interview scheduling, interview ratings
+
 ## Project Setup
  - **Pre-requisite**
  	* System Requirements : Ubuntu 18 (4 Core or Greater, 8 GB RAM or Greater)
@@ -38,7 +41,7 @@ Eazyrecruit is a solution that committed towards the advancement of HR Talent Ac
  - **Interviews**
 	>Track all Pending and Completed interviews,
 - **Analytics**
-	>Text here
+	>
  - **Email Settings**
 	* Inbound Settings
 		> Configure Imap to fetch  resume from specific email-id
