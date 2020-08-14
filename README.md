@@ -1,5 +1,5 @@
 # Eazyrecruit
-We as a company are committed towards the advancement of HR Talent Acquisition solutions. Our objective is to make the hiring process easy for employers and help them in acquiring the right talent from the market.
+Eazyrecruit is a solution that committed towards the advancement of HR Talent Acquisition solutions. It's objective is to make the hiring process easy for employers and help them in acquiring the right talent from the market.
 ## Project Setup
  - **Pre-requisite**
  	* System Requirements : Ubuntu 18 (4 Core or Greater, 8 GB RAM or Greater)
