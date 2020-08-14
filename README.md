@@ -1,9 +1,10 @@
 # Eazyrecruit
+### We as a company are committed towards the advancement of HR Talent Acquisition solutions. Our objective is to make the hiring process easy for employers and help them in acquiring the right talent from the market.
 ## Project Setup
  - **Pre-requisite**
  	* System Requirements : Ubuntu 18 (4 Core or Greater, 8 GB RAM or Greater)
-	* Install Docker (https://docs.docker.com/engine/install/ubuntu/) 
-	* Install Docker-Compose (https://docs.docker.com/compose/install/)
+	* Install [Docker](https://docs.docker.com/engine/install/ubuntu/) 
+	* Install [Docker-Compose](https://docs.docker.com/compose/install/)
 	
  - **Install Setup**
  	* After clone the project run below command on root directory
