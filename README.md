@@ -1,4 +1,5 @@
 # Eazyrecruit
+## Project Setup
 ## Language Used
 ## Framework Used
 ## Features
